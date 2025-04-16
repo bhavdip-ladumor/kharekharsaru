@@ -1,0 +1,24 @@
+.category-list{
+    height: 160px;
+    width: 190px;
+    background-color:aqua;
+    margin: 10px 0px;
+    overflow: hidden;
+    
+
+ }
+
+
+     .category-list-img{
+        height: 100px;
+        width: 100%;
+        object-fit: cover; 
+        background-color: aqua;
+        
+
+
+     }
+     .category-list-name{
+      font-size: 1em
+
+     }
